@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.kotlin/
+
+# Machine-specific: sdk.dir points at a local Android SDK install
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+
+# macOS
+.DS_Store
+
+# Shared demo Firebase project — request it from the team
+app/google-services.json
