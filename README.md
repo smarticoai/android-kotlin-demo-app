@@ -1,10 +1,12 @@
 # Smartico Kotlin demo
 
-<!-- Video: ~/Documents/kotlin-readme-video.mp4 — the React Native demo's reel
-     with its closing card rebuilt for Kotlin. GitHub only mints a video URL
-     when the file is dropped into its web editor: open any issue in this repo,
-     drag the file in, and paste the resulting
-     https://github.com/user-attachments/assets/… line here. -->
+
+
+
+
+https://github.com/user-attachments/assets/9f366715-3254-4912-b0f8-92d92eec1969
+
+
 
 **A showcase of building a fully custom, native gamification UI on top of the
 Smartico API.**
