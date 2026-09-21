@@ -27,6 +27,17 @@ suspend functions, plus the protocol documentation.
 Kotlin 2.1 · Jetpack Compose (BOM 2024.12) · minSdk 24 · JDK 17. Pure JVM SDK —
 no AAR, no manifest merging.
 
+## Try it on a device
+
+[**Download the Android demo APK →**](https://github.com/smarticoai/android-kotlin-demo-app/releases/latest)
+
+No toolchain needed — install it and the whole demo runs against the live ICE
+demo label. Sign in with Google.
+
+The build is signed with the standard Android debug key, so Android will ask you
+to allow installation from an unknown source and Play Protect may warn about it.
+That is expected for a demo build.
+
 ## What is demonstrated
 
 **Session & identity**
